@@ -1,0 +1,14 @@
+C:\Users\abcd\source\repos\Aufgabe Diamant\bin\Debug\net8.0\Aufgabe Diamant.exe
+C:\Users\abcd\source\repos\Aufgabe Diamant\bin\Debug\net8.0\Aufgabe Diamant.deps.json
+C:\Users\abcd\source\repos\Aufgabe Diamant\bin\Debug\net8.0\Aufgabe Diamant.runtimeconfig.json
+C:\Users\abcd\source\repos\Aufgabe Diamant\bin\Debug\net8.0\Aufgabe Diamant.dll
+C:\Users\abcd\source\repos\Aufgabe Diamant\bin\Debug\net8.0\Aufgabe Diamant.pdb
+C:\Users\abcd\source\repos\Aufgabe Diamant\obj\Debug\net8.0\Aufgabe Diamant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abcd\source\repos\Aufgabe Diamant\obj\Debug\net8.0\Aufgabe Diamant.AssemblyInfoInputs.cache
+C:\Users\abcd\source\repos\Aufgabe Diamant\obj\Debug\net8.0\Aufgabe Diamant.AssemblyInfo.cs
+C:\Users\abcd\source\repos\Aufgabe Diamant\obj\Debug\net8.0\Aufgabe Diamant.csproj.CoreCompileInputs.cache
+C:\Users\abcd\source\repos\Aufgabe Diamant\obj\Debug\net8.0\Aufgabe Diamant.dll
+C:\Users\abcd\source\repos\Aufgabe Diamant\obj\Debug\net8.0\refint\Aufgabe Diamant.dll
+C:\Users\abcd\source\repos\Aufgabe Diamant\obj\Debug\net8.0\Aufgabe Diamant.pdb
+C:\Users\abcd\source\repos\Aufgabe Diamant\obj\Debug\net8.0\Aufgabe Diamant.genruntimeconfig.cache
+C:\Users\abcd\source\repos\Aufgabe Diamant\obj\Debug\net8.0\ref\Aufgabe Diamant.dll
