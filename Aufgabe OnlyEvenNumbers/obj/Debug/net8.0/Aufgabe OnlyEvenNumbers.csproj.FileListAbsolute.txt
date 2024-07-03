@@ -1,0 +1,14 @@
+C:\Users\abcd\source\repos\Aufgabe OnlyEvenNumbers\bin\Debug\net8.0\Aufgabe OnlyEvenNumbers.exe
+C:\Users\abcd\source\repos\Aufgabe OnlyEvenNumbers\bin\Debug\net8.0\Aufgabe OnlyEvenNumbers.deps.json
+C:\Users\abcd\source\repos\Aufgabe OnlyEvenNumbers\bin\Debug\net8.0\Aufgabe OnlyEvenNumbers.runtimeconfig.json
+C:\Users\abcd\source\repos\Aufgabe OnlyEvenNumbers\bin\Debug\net8.0\Aufgabe OnlyEvenNumbers.dll
+C:\Users\abcd\source\repos\Aufgabe OnlyEvenNumbers\bin\Debug\net8.0\Aufgabe OnlyEvenNumbers.pdb
+C:\Users\abcd\source\repos\Aufgabe OnlyEvenNumbers\obj\Debug\net8.0\Aufgabe OnlyEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abcd\source\repos\Aufgabe OnlyEvenNumbers\obj\Debug\net8.0\Aufgabe OnlyEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\abcd\source\repos\Aufgabe OnlyEvenNumbers\obj\Debug\net8.0\Aufgabe OnlyEvenNumbers.AssemblyInfo.cs
+C:\Users\abcd\source\repos\Aufgabe OnlyEvenNumbers\obj\Debug\net8.0\Aufgabe OnlyEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\abcd\source\repos\Aufgabe OnlyEvenNumbers\obj\Debug\net8.0\Aufgabe OnlyEvenNumbers.dll
+C:\Users\abcd\source\repos\Aufgabe OnlyEvenNumbers\obj\Debug\net8.0\refint\Aufgabe OnlyEvenNumbers.dll
+C:\Users\abcd\source\repos\Aufgabe OnlyEvenNumbers\obj\Debug\net8.0\Aufgabe OnlyEvenNumbers.pdb
+C:\Users\abcd\source\repos\Aufgabe OnlyEvenNumbers\obj\Debug\net8.0\Aufgabe OnlyEvenNumbers.genruntimeconfig.cache
+C:\Users\abcd\source\repos\Aufgabe OnlyEvenNumbers\obj\Debug\net8.0\ref\Aufgabe OnlyEvenNumbers.dll
