@@ -1,0 +1,14 @@
+C:\Users\OehlerMarkus\source\repos\Aufgabe PrintBackwards\bin\Debug\net8.0\Aufgabe PrintBackwards.exe
+C:\Users\OehlerMarkus\source\repos\Aufgabe PrintBackwards\bin\Debug\net8.0\Aufgabe PrintBackwards.deps.json
+C:\Users\OehlerMarkus\source\repos\Aufgabe PrintBackwards\bin\Debug\net8.0\Aufgabe PrintBackwards.runtimeconfig.json
+C:\Users\OehlerMarkus\source\repos\Aufgabe PrintBackwards\bin\Debug\net8.0\Aufgabe PrintBackwards.dll
+C:\Users\OehlerMarkus\source\repos\Aufgabe PrintBackwards\bin\Debug\net8.0\Aufgabe PrintBackwards.pdb
+C:\Users\OehlerMarkus\source\repos\Aufgabe PrintBackwards\obj\Debug\net8.0\Aufgabe PrintBackwards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OehlerMarkus\source\repos\Aufgabe PrintBackwards\obj\Debug\net8.0\Aufgabe PrintBackwards.AssemblyInfoInputs.cache
+C:\Users\OehlerMarkus\source\repos\Aufgabe PrintBackwards\obj\Debug\net8.0\Aufgabe PrintBackwards.AssemblyInfo.cs
+C:\Users\OehlerMarkus\source\repos\Aufgabe PrintBackwards\obj\Debug\net8.0\Aufgabe PrintBackwards.csproj.CoreCompileInputs.cache
+C:\Users\OehlerMarkus\source\repos\Aufgabe PrintBackwards\obj\Debug\net8.0\Aufgabe PrintBackwards.dll
+C:\Users\OehlerMarkus\source\repos\Aufgabe PrintBackwards\obj\Debug\net8.0\refint\Aufgabe PrintBackwards.dll
+C:\Users\OehlerMarkus\source\repos\Aufgabe PrintBackwards\obj\Debug\net8.0\Aufgabe PrintBackwards.pdb
+C:\Users\OehlerMarkus\source\repos\Aufgabe PrintBackwards\obj\Debug\net8.0\Aufgabe PrintBackwards.genruntimeconfig.cache
+C:\Users\OehlerMarkus\source\repos\Aufgabe PrintBackwards\obj\Debug\net8.0\ref\Aufgabe PrintBackwards.dll
