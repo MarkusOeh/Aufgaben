@@ -1,0 +1,14 @@
+C:\Users\abcd\source\repos\Aufgabe Letztes Wort Buchstaben Zählen\bin\Debug\net8.0\Aufgabe Letztes Wort Buchstaben Zählen.exe
+C:\Users\abcd\source\repos\Aufgabe Letztes Wort Buchstaben Zählen\bin\Debug\net8.0\Aufgabe Letztes Wort Buchstaben Zählen.deps.json
+C:\Users\abcd\source\repos\Aufgabe Letztes Wort Buchstaben Zählen\bin\Debug\net8.0\Aufgabe Letztes Wort Buchstaben Zählen.runtimeconfig.json
+C:\Users\abcd\source\repos\Aufgabe Letztes Wort Buchstaben Zählen\bin\Debug\net8.0\Aufgabe Letztes Wort Buchstaben Zählen.dll
+C:\Users\abcd\source\repos\Aufgabe Letztes Wort Buchstaben Zählen\bin\Debug\net8.0\Aufgabe Letztes Wort Buchstaben Zählen.pdb
+C:\Users\abcd\source\repos\Aufgabe Letztes Wort Buchstaben Zählen\obj\Debug\net8.0\Aufgabe Letztes Wort Buchstaben Zählen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abcd\source\repos\Aufgabe Letztes Wort Buchstaben Zählen\obj\Debug\net8.0\Aufgabe Letztes Wort Buchstaben Zählen.AssemblyInfoInputs.cache
+C:\Users\abcd\source\repos\Aufgabe Letztes Wort Buchstaben Zählen\obj\Debug\net8.0\Aufgabe Letztes Wort Buchstaben Zählen.AssemblyInfo.cs
+C:\Users\abcd\source\repos\Aufgabe Letztes Wort Buchstaben Zählen\obj\Debug\net8.0\Aufgabe Letztes Wort Buchstaben Zählen.csproj.CoreCompileInputs.cache
+C:\Users\abcd\source\repos\Aufgabe Letztes Wort Buchstaben Zählen\obj\Debug\net8.0\Aufgabe Letztes Wort Buchstaben Zählen.dll
+C:\Users\abcd\source\repos\Aufgabe Letztes Wort Buchstaben Zählen\obj\Debug\net8.0\refint\Aufgabe Letztes Wort Buchstaben Zählen.dll
+C:\Users\abcd\source\repos\Aufgabe Letztes Wort Buchstaben Zählen\obj\Debug\net8.0\Aufgabe Letztes Wort Buchstaben Zählen.pdb
+C:\Users\abcd\source\repos\Aufgabe Letztes Wort Buchstaben Zählen\obj\Debug\net8.0\Aufgabe Letztes Wort Buchstaben Zählen.genruntimeconfig.cache
+C:\Users\abcd\source\repos\Aufgabe Letztes Wort Buchstaben Zählen\obj\Debug\net8.0\ref\Aufgabe Letztes Wort Buchstaben Zählen.dll

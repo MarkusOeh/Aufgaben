@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aufgabe Letztes Wort Buchstaben Zählen/1.0.0": {
+        "runtime": {
+          "Aufgabe Letztes Wort Buchstaben Zählen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aufgabe Letztes Wort Buchstaben Zählen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
