@@ -1,0 +1,14 @@
+C:\Users\abcd\source\repos\Aufgabe Konsonanten Und Vokale Zählen\bin\Debug\net8.0\Aufgabe Konsonanten Und Vokale Zählen.exe
+C:\Users\abcd\source\repos\Aufgabe Konsonanten Und Vokale Zählen\bin\Debug\net8.0\Aufgabe Konsonanten Und Vokale Zählen.deps.json
+C:\Users\abcd\source\repos\Aufgabe Konsonanten Und Vokale Zählen\bin\Debug\net8.0\Aufgabe Konsonanten Und Vokale Zählen.runtimeconfig.json
+C:\Users\abcd\source\repos\Aufgabe Konsonanten Und Vokale Zählen\bin\Debug\net8.0\Aufgabe Konsonanten Und Vokale Zählen.dll
+C:\Users\abcd\source\repos\Aufgabe Konsonanten Und Vokale Zählen\bin\Debug\net8.0\Aufgabe Konsonanten Und Vokale Zählen.pdb
+C:\Users\abcd\source\repos\Aufgabe Konsonanten Und Vokale Zählen\obj\Debug\net8.0\Aufgabe Konsonanten Und Vokale Zählen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abcd\source\repos\Aufgabe Konsonanten Und Vokale Zählen\obj\Debug\net8.0\Aufgabe Konsonanten Und Vokale Zählen.AssemblyInfoInputs.cache
+C:\Users\abcd\source\repos\Aufgabe Konsonanten Und Vokale Zählen\obj\Debug\net8.0\Aufgabe Konsonanten Und Vokale Zählen.AssemblyInfo.cs
+C:\Users\abcd\source\repos\Aufgabe Konsonanten Und Vokale Zählen\obj\Debug\net8.0\Aufgabe Konsonanten Und Vokale Zählen.csproj.CoreCompileInputs.cache
+C:\Users\abcd\source\repos\Aufgabe Konsonanten Und Vokale Zählen\obj\Debug\net8.0\Aufgabe Konsonanten Und Vokale Zählen.dll
+C:\Users\abcd\source\repos\Aufgabe Konsonanten Und Vokale Zählen\obj\Debug\net8.0\refint\Aufgabe Konsonanten Und Vokale Zählen.dll
+C:\Users\abcd\source\repos\Aufgabe Konsonanten Und Vokale Zählen\obj\Debug\net8.0\Aufgabe Konsonanten Und Vokale Zählen.pdb
+C:\Users\abcd\source\repos\Aufgabe Konsonanten Und Vokale Zählen\obj\Debug\net8.0\Aufgabe Konsonanten Und Vokale Zählen.genruntimeconfig.cache
+C:\Users\abcd\source\repos\Aufgabe Konsonanten Und Vokale Zählen\obj\Debug\net8.0\ref\Aufgabe Konsonanten Und Vokale Zählen.dll
