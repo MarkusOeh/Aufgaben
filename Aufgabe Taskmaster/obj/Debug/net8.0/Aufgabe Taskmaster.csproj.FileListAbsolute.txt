@@ -1,0 +1,14 @@
+C:\Users\abcd\source\repos\Aufgabe Taskmaster\bin\Debug\net8.0\Aufgabe Taskmaster.exe
+C:\Users\abcd\source\repos\Aufgabe Taskmaster\bin\Debug\net8.0\Aufgabe Taskmaster.deps.json
+C:\Users\abcd\source\repos\Aufgabe Taskmaster\bin\Debug\net8.0\Aufgabe Taskmaster.runtimeconfig.json
+C:\Users\abcd\source\repos\Aufgabe Taskmaster\bin\Debug\net8.0\Aufgabe Taskmaster.dll
+C:\Users\abcd\source\repos\Aufgabe Taskmaster\bin\Debug\net8.0\Aufgabe Taskmaster.pdb
+C:\Users\abcd\source\repos\Aufgabe Taskmaster\obj\Debug\net8.0\Aufgabe Taskmaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abcd\source\repos\Aufgabe Taskmaster\obj\Debug\net8.0\Aufgabe Taskmaster.AssemblyInfoInputs.cache
+C:\Users\abcd\source\repos\Aufgabe Taskmaster\obj\Debug\net8.0\Aufgabe Taskmaster.AssemblyInfo.cs
+C:\Users\abcd\source\repos\Aufgabe Taskmaster\obj\Debug\net8.0\Aufgabe Taskmaster.csproj.CoreCompileInputs.cache
+C:\Users\abcd\source\repos\Aufgabe Taskmaster\obj\Debug\net8.0\Aufgabe Taskmaster.dll
+C:\Users\abcd\source\repos\Aufgabe Taskmaster\obj\Debug\net8.0\refint\Aufgabe Taskmaster.dll
+C:\Users\abcd\source\repos\Aufgabe Taskmaster\obj\Debug\net8.0\Aufgabe Taskmaster.pdb
+C:\Users\abcd\source\repos\Aufgabe Taskmaster\obj\Debug\net8.0\Aufgabe Taskmaster.genruntimeconfig.cache
+C:\Users\abcd\source\repos\Aufgabe Taskmaster\obj\Debug\net8.0\ref\Aufgabe Taskmaster.dll
