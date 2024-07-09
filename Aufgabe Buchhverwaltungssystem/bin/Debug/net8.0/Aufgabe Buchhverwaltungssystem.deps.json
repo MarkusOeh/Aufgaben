@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aufgabe Buchhverwaltungssystem/1.0.0": {
+        "runtime": {
+          "Aufgabe Buchhverwaltungssystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aufgabe Buchhverwaltungssystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

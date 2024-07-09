@@ -1,0 +1,14 @@
+C:\Users\OehlerMarkus\source\repos\Aufgabe Buchhverwaltungssystem\bin\Debug\net8.0\Aufgabe Buchhverwaltungssystem.exe
+C:\Users\OehlerMarkus\source\repos\Aufgabe Buchhverwaltungssystem\bin\Debug\net8.0\Aufgabe Buchhverwaltungssystem.deps.json
+C:\Users\OehlerMarkus\source\repos\Aufgabe Buchhverwaltungssystem\bin\Debug\net8.0\Aufgabe Buchhverwaltungssystem.runtimeconfig.json
+C:\Users\OehlerMarkus\source\repos\Aufgabe Buchhverwaltungssystem\bin\Debug\net8.0\Aufgabe Buchhverwaltungssystem.dll
+C:\Users\OehlerMarkus\source\repos\Aufgabe Buchhverwaltungssystem\bin\Debug\net8.0\Aufgabe Buchhverwaltungssystem.pdb
+C:\Users\OehlerMarkus\source\repos\Aufgabe Buchhverwaltungssystem\obj\Debug\net8.0\Aufgabe Buchhverwaltungssystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OehlerMarkus\source\repos\Aufgabe Buchhverwaltungssystem\obj\Debug\net8.0\Aufgabe Buchhverwaltungssystem.AssemblyInfoInputs.cache
+C:\Users\OehlerMarkus\source\repos\Aufgabe Buchhverwaltungssystem\obj\Debug\net8.0\Aufgabe Buchhverwaltungssystem.AssemblyInfo.cs
+C:\Users\OehlerMarkus\source\repos\Aufgabe Buchhverwaltungssystem\obj\Debug\net8.0\Aufgabe Buchhverwaltungssystem.csproj.CoreCompileInputs.cache
+C:\Users\OehlerMarkus\source\repos\Aufgabe Buchhverwaltungssystem\obj\Debug\net8.0\Aufgabe Buchhverwaltungssystem.dll
+C:\Users\OehlerMarkus\source\repos\Aufgabe Buchhverwaltungssystem\obj\Debug\net8.0\refint\Aufgabe Buchhverwaltungssystem.dll
+C:\Users\OehlerMarkus\source\repos\Aufgabe Buchhverwaltungssystem\obj\Debug\net8.0\Aufgabe Buchhverwaltungssystem.pdb
+C:\Users\OehlerMarkus\source\repos\Aufgabe Buchhverwaltungssystem\obj\Debug\net8.0\Aufgabe Buchhverwaltungssystem.genruntimeconfig.cache
+C:\Users\OehlerMarkus\source\repos\Aufgabe Buchhverwaltungssystem\obj\Debug\net8.0\ref\Aufgabe Buchhverwaltungssystem.dll
