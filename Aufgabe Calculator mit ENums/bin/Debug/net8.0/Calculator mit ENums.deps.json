@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Calculator mit ENums/1.0.0": {
+        "runtime": {
+          "Calculator mit ENums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculator mit ENums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
