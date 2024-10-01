@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe Bestellungsabwicklung Bits&Bytes", "Aufgabe Bestellungsabwicklung Bits&Bytes.csproj", "{5CC12C89-3FA5-4CC0-98FC-5E6A3DE84FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CC12C89-3FA5-4CC0-98FC-5E6A3DE84FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC12C89-3FA5-4CC0-98FC-5E6A3DE84FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC12C89-3FA5-4CC0-98FC-5E6A3DE84FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC12C89-3FA5-4CC0-98FC-5E6A3DE84FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C40CE1B-F491-4B17-8A2F-092F861076DF}
+	EndGlobalSection
+EndGlobal
